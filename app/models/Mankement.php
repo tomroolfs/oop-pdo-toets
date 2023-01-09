@@ -29,3 +29,4 @@ class Mankement
         return $this->db->execute();
     }
 }
+
