@@ -3,7 +3,6 @@
 // We loaden de model en de view
 class Controller
 {
-  // Geen properties
 
 
   public function model($model)
