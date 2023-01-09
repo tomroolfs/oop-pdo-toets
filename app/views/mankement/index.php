@@ -13,4 +13,5 @@
     </table>
     <button><a href='addMankement/2'>Mankement Toevoegen</a></button>
     <?php require(APPROOT . '/views/includes/footer.php') ?>
+
     
